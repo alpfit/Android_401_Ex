@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Burbuja</string>
+    <string name="still_mode">Modo Estatico</string>
+    <string name="single_speed_mode">Mode Velocidad Unica</string>
+    <string name="random_speed_mode">Mode Velocidad Aleatoria</string>
+    <string name="quit">Salir</string>
+
+</resources>
